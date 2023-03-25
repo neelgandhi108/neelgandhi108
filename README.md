@@ -1,5 +1,3 @@
-Here is a possible fill-in for your GitHub profile intro section based on the information you provided:
-
 👋 Hi, I’m @neelgandhi108. I’m a computer science student at Dartmouth College.
 
 
